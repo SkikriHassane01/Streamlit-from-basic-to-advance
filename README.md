@@ -1,5 +1,7 @@
 # Streamlit application from basic to advanced
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/b5691606-a4c6-46ae-acfd-5b9150b1181c)
+
 
 Streamlit is a Python library that makes it easy to create web apps for data science and machine learning
 
